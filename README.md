@@ -2,10 +2,7 @@
 A simple rule machine system
 
 # Description
-The Rule Machine implements the logic for create:
-1. The context rule
-2. The working memmory
-3. The resolver
+The Rule Machine implements the logic for create the context rule, the working memmory, the resolver
 
 ## Variables
 All variables defined has the next
@@ -44,7 +41,7 @@ All variables defined has the next
 The console must show
 ```
 Variable{value=FALSE, label=D, negated=true}
-Unknown name rule: A and ~B or C => ~D
+Rule 1: A and ~B or C => ~D
 ```
 
 # Next work
