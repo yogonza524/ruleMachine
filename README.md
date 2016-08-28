@@ -1,5 +1,5 @@
 # ruleMachine
-A simple rule machine system
+A simple rule logic machine system
 
 # Description
 The Rule Machine implements the logic for create the context rule, the working memmory, the resolver
