@@ -45,4 +45,4 @@ Rule 1: A and ~B or C => ~D
 ```
 
 # Next work
-At the time I write this lines this project is at 10% af the spected result. If you want to help me, welcome!
+At the time I write this lines this project is at 10% of the spected result. If you want to help me, welcome!
